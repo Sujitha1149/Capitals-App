@@ -1,0 +1,22 @@
+.bg-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-bg {
+  background-color: white;
+  padding: 40px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.drop-select {
+  width: 120px;
+  height: 30px;
+  margin-right: 10px;
+  border: 1px solid #cbd2d9;
+}
